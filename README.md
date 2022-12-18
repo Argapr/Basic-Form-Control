@@ -1,3 +1,3 @@
 # Form Control
 
-[![Website naereen.github.io|arga pratama](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://xrpl1.onlyonerpl.repl.co)
+[![Website naereen.github.io|arga pratama](https://xrpl1.onlyonerpl.repl.co.svg)](https://xrpl1.onlyonerpl.repl.co)
