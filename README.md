@@ -1,3 +1,3 @@
-# Basic-Form-Control
+# Form Control
 
-![hasil](file:///C:/Users/HP/Desktop/created%20by%20arga/Basic-Form-Control/index.html)
+[![Website naereen.github.io|arga pratama](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://naereen.github.io/)
